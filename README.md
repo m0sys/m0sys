@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm m0sys</h1>
 <h3 align="center">I like to Architect Chips & Look Into Bits</h3>
 
+> Once the foundations of understanding and tooling are in place - all that is left to do is to automate. - m0
+
 - 🔭 I’m currently working on **ARM Embedded Systems**
 
 - 🌱 I’m currently learning **ARM Embedded Systems, RISC-V, Uarch**
