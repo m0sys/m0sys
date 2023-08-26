@@ -13,4 +13,3 @@
 
 > The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man. - George Bernard Shaw
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0sys&show_icons=true&locale=en" alt="m0sys" /></div>
